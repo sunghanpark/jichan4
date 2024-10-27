@@ -1,0 +1,14 @@
+python3-dev
+libgl1-mesa-glx
+libglib2.0-0
+libsm6
+libxext6
+libxrender1
+libxrender-dev
+libxcb-xinerama0
+libxcb1-dev
+libxcb-render0-dev
+libxcb-shape0-dev
+libxcb-xfixes0-dev
+gcc
+g++
